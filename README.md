@@ -1,6 +1,6 @@
 # notes-app
 ## Deskripsi Proyek
-notes App adalah aplikasi web sederhana untuk membuat, mengelola, dan mengarsipkan catatan menggunakan React. Aplikasi ini memungkinkan pengguna untuk:
+notes app adalah aplikasi web sederhana untuk membuat, mengelola, dan mengarsipkan catatan menggunakan React. Aplikasi ini memungkinkan pengguna untuk:
 - Membuat catatan baru
 - Melihat daftar catatan
 - Menghapus catatan
