@@ -7,11 +7,9 @@ notes app adalah aplikasi web sederhana untuk membuat, mengelola, dan mengarsipk
 - Mengarsipkan catatan
 
 ## Fitur Utama
-- Input catatan dengan judul dan body
-- Pembatasan karakter pada judul
+- Input catatan dengan judul dan deskripsi
 - Tampilan responsif
-- Daftar catatan dengan tata letak grid
-- Tombol hapus dan arsip untuk setiap catatan
+- Daftar catatan dengan tata letak yang rapih
 
 ## Teknologi yang Digunakan
 - React
